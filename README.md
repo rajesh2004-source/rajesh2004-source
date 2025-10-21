@@ -1,4 +1,4 @@
-# Mahale Rajesh
+# MAHALE RAJESH
 ### MERN Stack Developer | MSc Computer Science @KJU
 
 A results-oriented Full Stack Developer specializing in the MERN stack, currently pursuing an MSc in Computer Science. Based in Bangalore, I have a strong passion for developing high-performance, scalable web applications that deliver exceptional user experiences. I am actively seeking challenging opportunities to apply my skills in a professional environment.
