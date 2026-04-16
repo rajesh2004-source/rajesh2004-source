@@ -4,7 +4,7 @@
 A results-oriented Full Stack Developer specializing in the MERN stack, currently pursuing an MSc in Computer Science. Based in Bangalore, I have a strong passion for developing high-performance, scalable web applications that deliver exceptional user experiences. I am actively seeking challenging opportunities to apply my skills in a professional environment.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahale-rajesh-128227256/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahale-rajesh-n-126227236?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rajeshmahale103@gmail.com">
